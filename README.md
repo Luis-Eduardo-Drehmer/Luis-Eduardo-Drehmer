@@ -1,7 +1,8 @@
 <div>
   <a href="https://github.com/Luis-Eduardo-Drehmer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Eduardo-Drehmer&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Eduardo-Drehmer&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luis-Eduardo-Drehmer&show_icons=true&theme=codeSTACKr&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Eduardo-Drehmer&layout=compact&langs_count=6&theme=codeSTACKr"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakat/?username=Luis-Eduardo-Drehmer&layout=compact&langs_count=6&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
